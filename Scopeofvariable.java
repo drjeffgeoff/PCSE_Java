@@ -29,9 +29,9 @@ public class Scopeofvariable {
     }
 
     public static void main(String[] args) {
-        Main obj = new Main();
+        // Mains obj = new Mains();
         System.out.println("Class Variable: " + classVar);
-        System.out.println("Instance Variable: " + obj.instanceVar);
-        obj.method();
+        // System.out.println("Instance Variable: " + obj.instanceVar);
+        // obj.method();
     }
 }
