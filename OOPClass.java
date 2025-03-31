@@ -20,7 +20,7 @@ class BankAccount {
     }
 }
 
-public class Main {
+public class OOPClass {
     public static void main(String[] args) {
         // Create an object
         BankAccount myAccount = new BankAccount();
