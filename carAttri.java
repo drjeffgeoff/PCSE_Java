@@ -17,5 +17,8 @@ public class carAttri {
         // Set Attributes
         myCar.brand = "Jeep";
         myCar.color = "green";
+
+        // Call method
+        myCar.drive(); //
     }
 }
